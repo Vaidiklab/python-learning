@@ -1,4 +1,4 @@
-# This is file 
+# This is file
 # name = (input("Can you type your name:"))
 # age = int(input("Enter your age please:"))
 # order = (input("Enter your need i.e item to be ordere:"))
@@ -18,7 +18,7 @@
 # Uses of "Strings", "Integers", "Float", "Boolean"
 
 # Strings
-# strings is a variable that contains character 
+# strings is a variable that contains character
 # name = "Vaidik"
 # food = "Maggie"
 
@@ -43,4 +43,12 @@
 # is_false = False
 # print(f"Is it true? {is_true}")
 
+# experiment 1
 
+# variables:
+name = "Vaidik Shree"  # a string variable
+age = 16  # an integer variable
+height = 5.9  # a float variable
+is_student = True  # a boolean variable
+print(f"My name is {name}. Currenlt, I am {age} year old and my height is{height}.")
+print(44 // 3)
